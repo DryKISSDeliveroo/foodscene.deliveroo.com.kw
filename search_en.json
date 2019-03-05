@@ -1,0 +1,1 @@
+{"index": {"version":"2.2.0","fields":["description","excerpt","heading","tags","title"],"fieldVectors":[],"invertedIndex":[],"pipeline":["stemmer"]}, "docs": {}}
