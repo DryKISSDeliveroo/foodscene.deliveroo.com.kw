@@ -79,6 +79,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.kw/terms/enjoy-14-days-free-delivery-for-new-customers-dec.html</loc>
+    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.kw/en/restaurant-profiles/deliveroo-support-during-covid.html</loc>
     <lastmod>2020-11-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -296,6 +302,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.kw/terms/</loc>
+    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.kw/terms/page/2/</loc>
     <lastmod>2020-11-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
