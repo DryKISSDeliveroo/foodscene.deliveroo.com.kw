@@ -19,6 +19,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.kw/en/terms/enjoy-14-days-free-delivery-for-new-customers-mar-en.html</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.kw/en/terms/enjoy-14-days-free-delivery-for-new-customers-mar-en.html</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.kw/en/restaurant-profiles/deliveroo-support-during-covid.html</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -56,12 +68,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.com.kw/عروض/welcome-to-deliveroo-promotions-in-kuwait.html</loc>
-    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.com.kw/عروض/five-guys-terms-and-conditions-october-kd500.html</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -151,25 +157,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.kw/archive/2019.html</loc>
-    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.com.kw/archive/2018.html</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.kw/عروض.html</loc>
+    <loc>https://foodscene.deliveroo.com.kw/صيحات-الأكل.html</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.com.kw/صيحات-الأكل.html</loc>
+    <loc>https://foodscene.deliveroo.com.kw/عروض.html</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -199,6 +199,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.kw/en/tag/terms.html</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.kw/en/tag/restaurants.html</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -217,13 +223,31 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.kw/en/archive/2021.html</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.kw/en/archive/2020.html</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.com.kw/en/terms.html</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.com.kw/en/restaurant-profiles.html</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.com.kw/en/deliveroo-kuwait.html</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
